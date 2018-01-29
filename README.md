@@ -1,3 +1,3 @@
 # [Artisan]
 
-Landing page for Artisan.
+Created by Joel Marquez, Michael Xiao, Rasmi Lamichhane
